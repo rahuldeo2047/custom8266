@@ -1,7 +1,7 @@
 {
     "framework-esp8266-rtos-sdk-idf-platformio": [
         {
-            "url": "https://github.com/rahuldeo2047/custom8266/blob/master/custom8266/platformio_for_sdk/framework-esp8266-rtos-sdk-idf-platformio-master.zip",
+            "url": "https://github.com/rahuldeo2047/framework-esp8266-rtos-sdk-idf-platformio/archive/1.0.2.zip",
             "sha1": "97395fe7922330e53c9f2f9e409e0fd311cb386f",
             "version": "1.0.2"
         }
