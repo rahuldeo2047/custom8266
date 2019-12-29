@@ -28,7 +28,7 @@ from SCons.Script import Builder, DefaultEnvironment
 env = DefaultEnvironment()
 platform = env.PioPlatform()
 
-FRAMEWORK_DIR = platform.get_package_dir("framework-esp8266-rtos-sdk-idf-platformio")
+FRAMEWORK_DIR = platform.get_package_dir("framework-esp8266-rtos-sdk")
 assert isdir(FRAMEWORK_DIR)
 
 env.Append(

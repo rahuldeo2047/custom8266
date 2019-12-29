@@ -16,6 +16,7 @@
     "arduino",
     "simba",
     "esp8266-rtos-sdk",
+    "esp8266-rtos-sdk-idf-platformio",
     "esp8266-nonos-sdk"
   ],
   "name": "WeMos D1 R2 and mini",
