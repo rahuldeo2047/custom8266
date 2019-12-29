@@ -18,7 +18,7 @@
     "http://dl.platformio.org/packages/manifest.json",
     "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json",
     "https://raw.githubusercontent.com/yanbe/framework-esp8266-rtos-sdk/master/manifest.json",
-    "https://raw.githubusercontent.com/rahuldeo2047/framework-esp8266-rtos-sdk-idf-platformio/master/platformio/manifest.json",
+    "https://github.com/rahuldeo2047/custom8266/raw/master/platformio_for_sdk/manifest.json",
     "https://raw.githubusercontent.com/sanderv32/framework-esp8266-nonos-sdk/master/manifest.json"
   ],
   "frameworks": {
